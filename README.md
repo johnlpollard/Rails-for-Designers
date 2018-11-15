@@ -7,5 +7,5 @@ In this course, designers will learn how to build out their static screens into 
 By the end of the course, you will be a more independent designer. You'll be able to turn your design into a functional prototype and have a better understanding of the considerations programmers make when coding applications.
 
 ## Sections
-* [Class 1 Slides - MVC & REST](https://github.com/)
+* [Class 1 Slides - MVC & REST](https://github.com/johnlpollard/Rails-for-Designers-Class/blob/master/Rails%20For%20Designers%20Part%201.key)
 * [Class 2 - Routes and View Helper](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
