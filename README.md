@@ -11,4 +11,4 @@ By the end of the course, you will be a more independent designer. You'll be abl
 
 ## Sections
 * [Class 1 Slides - MVC & REST](https://github.com/johnlpollard/Rails-for-Designers-Class/blob/master/Rails%20For%20Designers%20Part%201.key)
-* [Class 2 - Routes and View Helper](https://github.com/johnlpollard/Rails-for-Designers-Class/blob/master/class_2_view_helpers.md)
+* [Class 2 - Routes and View Helpers](https://github.com/johnlpollard/Rails-for-Designers-Class/blob/master/class_2_view_helpers.md)
